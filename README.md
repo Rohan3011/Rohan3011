@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rohan Kamble</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 🔭 I’m currently working on [expense tracker backend](https://github.com/Rohan3011/expense-backend)
+- 🔭 I’m currently working on [uno-star](https://github.com/Rohan3011/uno-star)
 
-- 🌱 I’m currently learning **Flutter, Android Development**
+- 🌱 I’m currently learning **Typescript, Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rohan3011](https://github.com/Rohan3011)
 
